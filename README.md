@@ -19,7 +19,7 @@
 - English 
 - Norwegian 
 - French
-- 
+
 ## 💻 Finished projects
 - [Agios](https://agios.ro/)
 
