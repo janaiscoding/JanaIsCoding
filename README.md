@@ -5,7 +5,7 @@
 - Frontend web development (Wordpress/CSS)
 - Managing Discord Communities of Scale
 - Making Spreadsheets and Organizing 
-- Being creative in Illustrator or Photoshop
+- Being creative in Adobe Illustrator or Photoshop
 
 ## 📅 Hobbies
 - Creating and Optimize Path of Exile Builds & Strategies
