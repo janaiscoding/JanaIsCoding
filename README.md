@@ -4,14 +4,24 @@
 ## 💬 Ask me about
 - Frontend web development (Wordpress/CSS)
 - Managing Discord Communities of Scale
+- Making Spreadsheets and Organizing 
+- Being creative in Illustrator or Photoshop
 
 ## 📅 Hobbies
-- Create and Optimize Path of Exile Builds
-- Watch movies and Tv shows
-- Listen to podcasts
+- Creating and Optimize Path of Exile Builds & Strategies
+- Watching movies and Tv shows
+- Listen to Podcasts on Spotify
 - Stream on Twitch
 - etc.
 
-## 💻 Current project
+## 🗣️ Known Languages 
+- Romanian
+- English 
+- Norwegian 
+- French
+- 
+## 💻 Finished projects
 - [Agios](https://agios.ro/)
+
+## ⚙️ Current projects
 - [Mediablock](https://mediablock.ro)
