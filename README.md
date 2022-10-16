@@ -7,7 +7,7 @@
 - [Mediablock](https://mediablock.ro)
 
 ## ⚙️ Current projects
-- Pomodoro, but with notes!
+- Pomodoro app, but with notes!
 
 ## 💬 Love to talk about
 - Gaming
