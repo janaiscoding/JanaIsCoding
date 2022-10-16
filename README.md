@@ -7,9 +7,10 @@
 - [Mediablock](https://mediablock.ro)
 
 ## ⚙️ Current projects
-- Pomodoro with notes!
+- Pomodoro, but with notes!
+
 ## 💬 Love to talk about
 - Gaming
 - Photography
-- Making Spreadsheets and Organizing
+- Making Spreadsheets
 - Fitness
