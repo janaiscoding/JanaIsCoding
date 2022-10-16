@@ -7,7 +7,7 @@
 - [Mediablock](https://mediablock.ro)
 
 ## ⚙️ Current projects
-- Pomodoro Method Countdown Application with a note taking function.
+- Pomodoro with notes!
 ## 💬 Love to talk about
 - Gaming
 - Photography
