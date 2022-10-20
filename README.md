@@ -6,8 +6,9 @@
 - [Agios](https://agios.ro/)
 - [Mediablock](https://mediablock.ro)
 
+
 ## ⚙️ Current projects
-- Pomodoro app, but with notes!
+- WebDesign project: My Portfolio Website
 
 ## 💬 Love to talk about
 - Gaming
