@@ -14,5 +14,4 @@
 ## 💬 Love to talk about
 - Gaming
 - Photography
-- Making Spreadsheets
 - Fitness
