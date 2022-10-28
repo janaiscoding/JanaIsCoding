@@ -8,7 +8,7 @@
 
 
 ## ⚙️ Current projects
-- WebDesign project: My Portfolio Website
+- Design & development project: My Portfolio Website
 - The Odin Project 
 
 ## 💬 Love to talk about
