@@ -8,8 +8,8 @@
 
 
 ## ⚙️ Current projects
-- Design & development project: My Portfolio Website
-- The Odin Project 
+- Design & development: My Portfolio Website
+- Learning: The Odin Project 
 
 ## 💬 Love to talk about
 - Gaming
