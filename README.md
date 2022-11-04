@@ -1,9 +1,14 @@
-<h1 align="center"> Hi 👋, I'm Jana. </h1>
-<h3 align="center"> Designing. Adapting. Always Evolving. </h3>
-<h4 align="left">I'm highly passionate about technology, I'm known for my awesome problem solving and attention to details.</br>
-I am proudly designing Websites for over a year now!</br>
-I look forward to further cultivate knowledge in this field and continously improving.</br>
-Currently completing The Odin Project in my mission to become a Front End & Back End Web Developer.</h4>
+<h1 align="center"> Hi there 👋, I'm Jana. </h1>
+
+<h4 align="center">Currently completing The Odin Project.</br>
+My career mission is to become an amazing Full Stack Web Developer!</br></h4>
+
+## 👩‍🎓 About me
+- Extremely passionate about problem-solving in general.</br>
+- Bachelor's Degree: Engineering ⚙️ </br>
+- Designing Websites creatively </br>
+- Constantly thirsty for knowledge!</br>
+
 
 ## 💻 Finished projects
 - [Agios](https://agios.ro/)
@@ -18,3 +23,6 @@ Currently completing The Odin Project in my mission to become a Front End & Back
 - Gaming
 - Photography
 - Fitness
+
+
+>*Designing. Adapting. Always Evolving.*
