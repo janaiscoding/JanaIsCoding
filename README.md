@@ -9,13 +9,11 @@ My career mission is to become an amazing Full Stack Web Developer!</br></h4>
 - Designing Websites creatively </br>
 - Constantly thirsty for knowledge!</br>
 
+## 📬 Where you can reach me
+- LinkedIn [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/)
+- Github [@JanaIsCoding](https://github.com/JanaIsCoding)
 
-## 💻 Finished projects
-- [Agios](https://agios.ro/)
-- [Mediablock](https://mediablock.ro)
-
-
-## ⚙️ Current projects
+## ⚙️ Ongoing Projects
 - Design & development: My Portfolio Website
 - Learning: The Odin Project 
 
