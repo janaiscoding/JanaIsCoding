@@ -9,6 +9,9 @@ My career mission is to become an amazing Full Stack Web Developer!</br></h4>
 - Designing Websites creatively </br>
 - Constantly thirsty for knowledge!</br>
 
+## ⚙️ Finished Projects
+- [Etch-A-Sketch](https://janaiscoding.github.io/etch-a-sketch/) : HTML, CSS, JS
+
 ## 📬 Where you can reach me
 - LinkedIn [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/)
 - Github [@JanaIsCoding](https://github.com/JanaIsCoding)
