@@ -2,7 +2,7 @@
 
 I'm ***extremely*** passionate about problem solving in general!
 
-My career mission is to become an **amazing** Full Stack Web Developer! I am currently looking for an entry-level or full-stack web developer position.
+My career mission is to become an **amazing** Full Stack Web Developer! I am currently looking for an entry-level front-end or full-stack web developer position.
 
 I am motivated to be a valuable team member that can **learn and adapt fast!**
 
