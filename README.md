@@ -6,6 +6,7 @@
 - I am motivated to be a valuable team member that can **learn and adapt fast!**</br>
 
 ## ⚙️ Finished Projects
+- [Library](https://janaiscoding.github.io/library/)
 - [Etch-A-Sketch](https://janaiscoding.github.io/etch-a-sketch/)
 - [Calculator](https://janaiscoding.github.io/calculator/)
 - Check out more of my projects in the pins section below ⬇️
