@@ -2,8 +2,8 @@
 
 - I'm an engineering graduate that's passionate about problem solving!</br>
 - My career mission is to become an amazing Full Stack Web Developer!</br>
-- I am currently looking for an entry-level front-end developer position.</br>
-- I am motivated to be a valuable team member that can learn and adapt fast! If you think I'd be a good fit for your team, feel free to reach out!</br>
+- Currently looking for an entry-level front-end developer position.</br>
+- Motivated to be a valuable team member that can learn and adapt fast! If you think I'd be a good fit for your team, feel free to reach out!</br>
 
 ## ⚙️ Finished Projects
 - [Library](https://janaiscoding.github.io/library/)
