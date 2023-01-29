@@ -34,9 +34,4 @@
 - Gaming
 - Photography
 - Fitness
-</br>
-</br>
-</br>
 
-
-> *Designing. Adapting. Always Evolving.*
