@@ -1,9 +1,8 @@
-## 👋👩‍🎓 Hi there. I'm Jana.
+## 👩‍🎓👋 Hey, I'm Jana. 
 
-- I'm a dedicated, organized, detail oriented engineering graduate. </br>
-- Currently looking for an entry-level front-end developer position.</br>
-- Motivated to be a valuable team member that can learn and adapt fast! </br>
-- If you think I'd be a good fit for your team, feel free to reach out anytime!</br>
+- 🍀 Legend says if you are dedicated, organized, detail oriented and you love problem solving, there's no reason not to code! </br>
+- 👀 Currently looking for an entry-level front-end developer position.</br>
+- 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
 ## ⚙️ Finished Projects
 - [Library](https://janaiscoding.github.io/library/)
@@ -31,7 +30,7 @@
 ![WORDPRESS](https://camo.githubusercontent.com/04b5e0e940eed511e8e86619eeb7cdb264f17292074c06c60127e1796436d57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d2532333131374143392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d576f72645072657373266c6f676f436f6c6f723d7768697465)
 
 ## 💬 Ask me about
-- Gaming
+- Gaming 
 - Photography
 - Fitness
 
