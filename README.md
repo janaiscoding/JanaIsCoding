@@ -1,7 +1,7 @@
 ## 👩‍🎓👋 Hey, I'm Jana. 
 
 - 🍀 Legend says if you are dedicated, organized, detail oriented and you love problem solving, there's no reason not to code! </br>
-- 👀 Currently looking for an entry-level front-end developer position.</br>
+- 👀 Currently looking for an entry-level or junior front-end developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
 ## ⚙️ Finished Projects
