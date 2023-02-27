@@ -23,10 +23,9 @@
 ## 🛠️ Additional Skills 
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaiscoding&show_icons=true&locale=en&layout=compact&title_color=ffb000&icon_color=ffb000&bg_color=0E1117&text_color=B7C0C8&border_color=0E1117" alt="janaiscoding" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaiscoding&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=ff652f&bg_color=0E1117&text_color=B7C0C8&border_color=0E1117" alt="janaiscoding" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=janaiscoding&layout=compact&title_color=ffb000&icon_color=ffb000&bg_color=0E1117&text_color=B7C0C8&border_color=0E1117)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=janaiscoding&title_color=ffb000&icon_color=ffb000&bg_color=0E1117&text_color=B7C0C8&border_color=0E1117)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=janaiscoding&layout=compact&title_color=ff652f&icon_color=ff652f&bg_color=0E1117&text_color=B7C0C8&border_color=0E1117)
 
 ## 💬 Ask me about
 - Gaming 
