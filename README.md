@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janaiscoding&show_icons=true&locale=en&layout=compact&title_color=B4504F&icon_color=B4504F&bg_color=0E1117&text_color=B7C0C8&border_color=000001" alt="janaiscoding" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=janaiscoding&hide=contribs,prs&layout=compact&title_color=B4504F&icon_color=B4504F&bg_color=0E1117&text_color=B7C0C8&border_color=000001)
+![](https://github-readme-stats.vercel.app/api?username=janaiscoding&hide=contribs,prs&layout=compact&theme=transparent)
 
 ## 💬 Ask me about
 - Gaming 
