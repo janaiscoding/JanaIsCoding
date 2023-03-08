@@ -5,10 +5,10 @@
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
 ## ⚙️ Finished Projects
-- [To do List](https://janaiscoding.github.io/todo-list/)
-- [Library](https://janaiscoding.github.io/library/)
-- [Etch-A-Sketch](https://janaiscoding.github.io/etch-a-sketch/)
-- [Calculator](https://janaiscoding.github.io/calculator/)
+- [Weather App](https://janaiscoding.github.io/weather-app/) | [Repo](https://github.com/janaiscoding/weather-app)
+- [To do List](https://janaiscoding.github.io/todo-list/) | [Repo](https://github.com/janaiscoding/todo-list)
+- [Library](https://janaiscoding.github.io/library/) | [Repo](https://github.com/janaiscoding/library)
+- [Etch-A-Sketch](https://janaiscoding.github.io/etch-a-sketch/) | [Repo](https://github.com/janaiscoding/etch-a-sketch)
 - Check out more of my projects in the pins section below ⬇️
 
 ## 📬 Let's talk!
