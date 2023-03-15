@@ -25,8 +25,8 @@
 
 ## 📊 My GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=janaiscoding&layout=compact&title_color=ff652f&icon_color=ff652f&bg_color=0E1117&text_color=B7C0C8&border_color=15233A)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=janaiscoding&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=ff652f&bg_color=0E1117&text_color=B7C0C8&border_color=15233A)
+![](https://github-readme-stats-ruby-one.vercel.app/api?username=janaiscoding&layout=compact&title_color=ff652f&icon_color=ff652f&bg_color=0E1117&text_color=B7C0C8&border_color=15233A)
+![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=janaiscoding&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=ff652f&bg_color=0E1117&text_color=B7C0C8&border_color=15233A)
 
 ## 💬 My Hobbies
 - Gaming
