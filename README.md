@@ -1,15 +1,16 @@
 ## ✨ Hey, I'm Jana. 
 
-- 🍀 Legend says if you are dedicated, organized, detail oriented and you love problem solving, there's no reason not to code! </br>
+- 🍀 Dedicated, organized, detail oriented. Engineering graduate with an enormous passion for problem solving! </br>
+- 🗒️ Learning Web Development through TOP curriculum: **Full-stack Javascript Path: React**.
 - 👀 Currently looking for an entry-level or junior front-end developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
 ## ⚙️ Finished Projects
 
-- [Battleship](https://janaiscoding.github.io/battleship/) | [Repo](https://github.com/janaiscoding/battleship)
-- [Weather App](https://janaiscoding.github.io/weather-app/) | [Repo](https://github.com/janaiscoding/weather-app)
-- [To do List](https://janaiscoding.github.io/todo-list/) | [Repo](https://github.com/janaiscoding/todo-list)
-- [Library](https://janaiscoding.github.io/library/) | [Repo](https://github.com/janaiscoding/library)
+- [Memory Card Game: React App](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
+- [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
+- [Weather App: API in JS ](https://janaiscoding.github.io/weather-app/) | [See Repo](https://github.com/janaiscoding/weather-app)
+- [To do List: localStorage in JS ](https://janaiscoding.github.io/todo-list/) | [See Repo](https://github.com/janaiscoding/todo-list)
 - Check out more of my projects in the pins section below ⬇️
 
 ## 📬 Let's talk!
