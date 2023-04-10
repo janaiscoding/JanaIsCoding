@@ -1,7 +1,7 @@
 ## ✨ Hey, I'm Jana. 
 
-- 🍀 Dedicated, organized, detail oriented. Engineering graduate with an enormous passion for problem solving! </br>
-- 🗒️ Learning Web Development through TOP curriculum: **Full-stack Javascript Path: React**.
+- 🍀 Dedicated, organized, detail oriented. I am an engineering graduate with an enormous passion for problem solving! </br>
+- 🗒️ Learning Web Development through TOP curriculum: Full-stack Javascript Path: React.
 - 👀 Currently looking for an entry-level or junior front-end developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
