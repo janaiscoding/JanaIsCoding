@@ -7,7 +7,8 @@
 
 ## ⚙️ Finished Projects
 
-- [Memory Card Game: React App](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
+- [Shopping Cart: Sushi Online Restaurant](https://janaiscoding.github.io/shopping-cart/#/) | [See Repo](https://github.com/janaiscoding/shopping-cart)
+- [Memory Card Game: peepoMemory](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
 - [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
 - [Weather App: API in JS ](https://janaiscoding.github.io/weather-app/) | [See Repo](https://github.com/janaiscoding/weather-app)
 - [To do List: localStorage in JS ](https://janaiscoding.github.io/todo-list/) | [See Repo](https://github.com/janaiscoding/todo-list)
