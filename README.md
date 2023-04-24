@@ -6,8 +6,8 @@
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
 ## ⚙️ Finished Projects
-
 - [Shopping Cart: Sushi Online Restaurant](https://janaiscoding.github.io/shopping-cart/#/) | [See Repo](https://github.com/janaiscoding/shopping-cart)
+- [Library App with Firebase](https://jana-s-library.web.app/) | [See Repo](https://github.com/janaiscoding/library)
 - [Memory Card Game: peepoMemory](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
 - [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
 - [Weather App: API in JS ](https://janaiscoding.github.io/weather-app/) | [See Repo](https://github.com/janaiscoding/weather-app)
