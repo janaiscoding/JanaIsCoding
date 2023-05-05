@@ -13,7 +13,7 @@
 - [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
 - [Weather App: API in JS](https://janaiscoding.github.io/weather-app/) | [See Repo](https://github.com/janaiscoding/weather-app)
 - [To do List: localStorage in JS ](https://janaiscoding.github.io/todo-list/) | [See Repo](https://github.com/janaiscoding/todo-list)
-- Check out more of my projects in the pins section below ⬇️
+- Check out more of my projects in ➡️ [my Repositories](https://github.com/janaiscoding?tab=repositories)
 
 ## 📬 Let's talk!
 - LinkedIn: [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/)
