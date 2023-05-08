@@ -4,6 +4,7 @@
 - 🗒️ Learning Web Development through TOP curriculum: Full-stack Javascript Path: React.
 - 👀 Currently looking for an entry-level or junior front-end developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
+- ⚙️ ATM working on [Letterboxd](https://letterboxd.com/) clone.
 
 ## ⚙️ Finished Projects
 - [Photo Tagging App: React and Firebase](https://a-photo-tagging-app.web.app/) | [See Repo](https://github.com/janaiscoding/photo-tagging-app)
