@@ -4,16 +4,15 @@
 - 🗒️ Learning Web Development through TOP curriculum: Full-stack Javascript Path: React.
 - 👀 Currently looking for an entry-level or junior front-end developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
-- ⚙️ ATM working on my Letterboxd clone: [Clonnerboxd](https://clonnerboxd.web.app/).
+- ⚙️ ATM working on my developer portfolio website!
 
 ## ⚙️ Finished Projects
+- [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
 - [Photo Tagging App: React and Firebase](https://a-photo-tagging-app.web.app/) | [See Repo](https://github.com/janaiscoding/photo-tagging-app)
 - [Shopping Cart: Japanese Restaurant](https://janaiscoding.github.io/shopping-cart/#/) | [See Repo](https://github.com/janaiscoding/shopping-cart)
 - [Library App with Firebase Auth](https://jana-s-library.web.app/) | [See Repo](https://github.com/janaiscoding/library)
 - [Memory Card Game: peepoMemory made in React](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
 - [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
-- [Weather App: API in JS](https://janaiscoding.github.io/weather-app/) | [See Repo](https://github.com/janaiscoding/weather-app)
-- [To do List: localStorage in JS ](https://janaiscoding.github.io/todo-list/) | [See Repo](https://github.com/janaiscoding/todo-list)
 - Check out more of my projects in ➡️ [my Repositories](https://github.com/janaiscoding?tab=repositories)
 
 ## 📬 Let's talk!
