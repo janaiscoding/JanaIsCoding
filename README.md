@@ -17,7 +17,6 @@
 
 ## 📬 Let's talk!
 - LinkedIn: [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/)
-- Github: [@JanaIsCoding](https://github.com/JanaIsCoding)
 - Mail: [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com)
 
 ## 🧰 Languages and Tools
