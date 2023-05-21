@@ -1,8 +1,8 @@
 ## ✨ Hey, I'm Jana. 
 
-- 🍀 Dedicated, organized, detail oriented. I am an engineering graduate with a passion for problem solving! </br>
+- 🍀 Dedicated, organized, disciplined I am an engineering graduate with a passion for problem solving! </br>
 - 🗒️ Learning Web Development through TOP curriculum: Full-stack Javascript Path: **NodeJS**.
-- 👀 Currently looking for an entry-level or junior front-end developer position.</br>
+- 👀 Currently looking for an entry-level or junior Front-end Developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 - ⚙️ ATM working on my developer portfolio website!
 
