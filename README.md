@@ -4,7 +4,7 @@
 - 🗒️ Learning Web Development through TOP curriculum: Full-stack Javascript Path: **NodeJS**.
 - 👀 Currently looking for an entry-level or junior Front-end Developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
-- ⚙️ ATM working on my developer portfolio website!
+- Check out [my portfolio website](https://jana-istrate.web.app/)
 
 ## ⚙️ Finished Projects
 - [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
