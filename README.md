@@ -10,9 +10,9 @@
 - [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
 - [Photo Tagging App: React and Firebase](https://a-photo-tagging-app.web.app/) | [See Repo](https://github.com/janaiscoding/photo-tagging-app)
 - [Shopping Cart: Umaī Restaurant](https://umai-restaurant.web.app/) | [See Repo](https://github.com/janaiscoding/shopping-cart)
-- [Library App with Firebase Auth](https://jana-s-library.web.app/) | [See Repo](https://github.com/janaiscoding/library)
-- [Memory Card Game: peepoMemory made in React](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
 - [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
+- [Memory Card Game: peepoMemory made in React](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
+- [Library App with Firebase Auth](https://jana-s-library.web.app/) | [See Repo](https://github.com/janaiscoding/library)
 - Check out more of my projects in ➡️ [my Repositories](https://github.com/janaiscoding?tab=repositories)
 
 ## 📬 Let's talk!
