@@ -6,13 +6,13 @@
 - 👀 Currently looking for an entry-level or junior Front-end Developer position.</br>
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
-## ⚙️ Finished Projects
+## ⚙️ Featured Projects
+- [Full-stack Blog App: React, Express, MongoDB](https://blog-client-smoky.vercel.app/) | [See Repo](https://github.com/janaiscoding/blog-client)
 - [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
 - [Photo Tagging App: React and Firebase](https://a-photo-tagging-app.web.app/) | [See Repo](https://github.com/janaiscoding/photo-tagging-app)
 - [Shopping Cart: Umaī Restaurant](https://umai-restaurant.web.app/) | [See Repo](https://github.com/janaiscoding/shopping-cart)
 - [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
 - [Memory Card Game: peepoMemory made in React](https://janaiscoding.github.io/memory-card/) | [See Repo](https://github.com/janaiscoding/memory-card)
-- [Library App with Firebase Auth](https://jana-s-library.web.app/) | [See Repo](https://github.com/janaiscoding/library)
 - Check out more of my projects in ➡️ [my Repositories](https://github.com/janaiscoding?tab=repositories)
 
 ## 📬 Let's talk!
