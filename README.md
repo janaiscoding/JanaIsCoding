@@ -8,7 +8,7 @@
 
 ## ⚙️ Featured Projects
 - Fiturself: Track your milestones, Inspire the world. | [See Repo](https://github.com/janaiscoding/fiturself) *work in progress**
-- [Full-stack Blog App: React, Express, MongoDB](https://blog-client-smoky.vercel.app/) | [See Repo](https://github.com/janaiscoding/blog-client)
+- [Full-stack Blog App: React, Express, MongoDB](https://janaiscoding-blog.vercel.app/) | [See Repo](https://github.com/janaiscoding/blog-client)
 - [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
 - [Photo Tagging App: React and Firebase](https://a-photo-tagging-app.web.app/) | [See Repo](https://github.com/janaiscoding/photo-tagging-app)
 - [Shopping Cart: Umaī Restaurant](https://umai-restaurant.web.app/) | [See Repo](https://github.com/janaiscoding/shopping-cart)
