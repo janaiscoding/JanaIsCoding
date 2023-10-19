@@ -7,7 +7,7 @@
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
 ## ⚙️ Featured Projects
-- Fiturself: Track your milestones, Inspire the world. | [See Repo](https://github.com/janaiscoding/fiturself) *work in progress**
+- [Fiturself: Track your milestones, Inspire the world.](https://fittrackr-gamma.vercel.app/) | [See Repo](https://github.com/janaiscoding/fiturself) *work in progress**
 - [Full-stack Blog App: React, Express, MongoDB](https://janaiscoding-blog.vercel.app/) | [See Repo](https://github.com/janaiscoding/blog-client)
 - [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
 - [Photo Tagging App: React and Firebase](https://a-photo-tagging-app.web.app/) | [See Repo](https://github.com/janaiscoding/photo-tagging-app)
