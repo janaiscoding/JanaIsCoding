@@ -7,6 +7,7 @@
 - 📈 Motivated to be a valuable team member that can learn and adapt fast! </br>
 
 ## ⚙️ Featured Projects
+- [Luxuria Hotels. Full-stack Hotel Booking Platform.](https://github.com/janaiscoding/luxuria-hotel) | [See Repo](https://github.com/janaiscoding/luxuria-hotel) *- Work in progress*
 - [Socializer. Full-stack Social Media App.](https://socializerme.vercel.app/) | [See Repo](https://github.com/janaiscoding/socializer) 
 - [Full-stack Blog App: React, Express, MongoDB](https://janaiscoding-blog.vercel.app/) | [See Repo](https://github.com/janaiscoding/blog-client)
 - [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
