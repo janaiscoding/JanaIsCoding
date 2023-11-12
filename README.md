@@ -9,11 +9,9 @@
 ## ⚙️ Featured Projects
 - [Luxuria Hotels. Full-stack Hotel Booking Platform.](https://github.com/janaiscoding/luxuria-hotel) | [See Repo](https://github.com/janaiscoding/luxuria-hotel) *- Work in progress*
 - [Socializer. Full-stack Social Media App.](https://socializerme.vercel.app/) | [See Repo](https://github.com/janaiscoding/socializer) 
-- [Full-stack Blog App: React, Express, MongoDB](https://janaiscoding-blog.vercel.app/) | [See Repo](https://github.com/janaiscoding/blog-client)
 - [Clonnerboxd: Letterboxd Clone: React, Firebase, API](https://clonnerboxd.web.app/) | [See Repo](https://github.com/janaiscoding/letterboxd-clone)
 - [Photo Tagging App: React and Firebase](https://a-photo-tagging-app.web.app/) | [See Repo](https://github.com/janaiscoding/photo-tagging-app)
 - [Shopping Cart: Umaī Restaurant](https://umai-restaurant.web.app/) | [See Repo](https://github.com/janaiscoding/shopping-cart)
-- [Battleship Game: Unit Testing in JS](https://janaiscoding.github.io/battleship/) | [See Repo](https://github.com/janaiscoding/battleship)
 - Check out more of my projects in ➡️ [my Repositories](https://github.com/janaiscoding?tab=repositories)
 
 ## 📬 Let's talk!
