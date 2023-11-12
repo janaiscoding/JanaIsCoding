@@ -4,24 +4,31 @@
  
 📈 Learning development through [The Odin Project](theodinproject.com), full stack JavaScript path
 
-👀 Looking for a junior Front-end or Full-stack Developer position
+👀 Looking for a developer position, eager to learn and adapt fast!
 
-### 🛠 Skills
+### 🛠  Skills
 
-`JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js`  | `MongoDB` | `TailwindCSS` 
-
-`RESTful APIs` | `Jest` | `Postman` | `Git` | `Figma` | `Firebase` *and more!*
+```javascript 
+const mySkills = {
+  languages: ["JavaScript", "TypeScript"],
+  frontEnd: ["React", "Next.js", "TailwindCSS", "CSS3", "HTML5"],
+  backEnd: ["NodeJs", "MongoDB", "Express.js", "Mongoose", "Firebase"],
+  tools: ["Jest", "Postman", "Git", "RESTful APIs", "Figma"],
+  toBeAdded: []
+}
+```
 
 ### ⚙️ Projects
-[Luxuria Hotels](https://github.com/janaiscoding/luxuria-hotel) | `Full-stack Hotel Booking Platform` | [Repo](https://github.com/janaiscoding/luxuria-hotel) *~work in progress ^^*
+
+[Luxuria Hotels](https://github.com/janaiscoding/luxuria-hotel) : [Repo](https://github.com/janaiscoding/luxuria-hotel) `Full-stack Hotel Booking Platform` *~work in progress ^^* 
  
-[SocializerMe](https://socializerme.vercel.app/) | `Full-stack Social Media App: MERN Stack` | [Repo](https://github.com/janaiscoding/socializer)
+[SocializerMe](https://socializerme.vercel.app/) : [Repo](https://github.com/janaiscoding/socializer) `Full-stack Social Media App: MERN Stack`
  
-[Clonnerboxd](https://clonnerboxd.web.app/) | `Letterboxd Clone: React, Firebase, API` | [Repo](https://github.com/janaiscoding/letterboxd-clone) 
+[Clonnerboxd](https://clonnerboxd.web.app/) : [Repo](https://github.com/janaiscoding/letterboxd-clone) `Letterboxd Clone: React, Firebase, API` 
  
-[Photo Tagging](https://a-photo-tagging-app.web.app/) | `Find Waldo-like game: React, Firebase` | [Repo](https://github.com/janaiscoding/photo-tagging-app)
+[Photo Tagging](https://a-photo-tagging-app.web.app/) : [Repo](https://github.com/janaiscoding/photo-tagging-app) `Find Waldo-like game: React, Firebase` 
  
-[Umaī Restaurant](https://umai-restaurant.web.app/) | `Front-end shopping cart landing page` | [Repo](https://github.com/janaiscoding/shopping-cart) 
+[Umaī Restaurant](https://umai-restaurant.web.app/) : [Repo](https://github.com/janaiscoding/shopping-cart) `Front-end shopping cart landing page`
 
 Check out more of my projects in [all my repooooos here](https://github.com/janaiscoding?tab=repositories)
 
