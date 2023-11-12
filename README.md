@@ -30,7 +30,7 @@ const mySkills = {
  
 [Umaī Restaurant](https://umai-restaurant.web.app/) : [Repo](https://github.com/janaiscoding/shopping-cart) `Front-end shopping cart landing page`
 
-Check out more of my projects in [all my repooooos here](https://github.com/janaiscoding?tab=repositories)
+👉 Check out more in [my repos](https://github.com/janaiscoding?tab=repositories)
 
 ### 🔗 Connect
 `LinkedIn` [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/) | `Mail` [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com) 
