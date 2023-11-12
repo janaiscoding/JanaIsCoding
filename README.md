@@ -1,6 +1,6 @@
 ## ✨ Hey, I'm Jana. 
 
-- 👋 Check out [my portfolio website](https://jana-istrate.web.app/)
+- 👋 Check out [my portfolio website](https://jana-istrate.vercel.app/)
 - 🍀 Dedicated, organized, disciplined. I am an engineering graduate with a passion for problem solving! </br>
 - 🗒️ Learning Web Development through TOP curriculum: Full-stack Javascript Path: **NodeJS**.
 - 👀 Currently looking for an entry-level or junior Front-end Developer position.</br>
