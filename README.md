@@ -6,15 +6,11 @@
 
 👀 Looking for a junior Front-end or Full-stack Developer position
 
-</br>
-
 ### 🛠 Skills
 
 `JavaScript` | `TypeScript` | `React` | `Next.js` | `Node.js`  | `MongoDB` | `TailwindCSS` 
 
 `RESTful APIs` | `Jest` | `Postman` | `Git` | `Figma` | `Firebase` *and more!*
-
-</br>
 
 ### ⚙️ Projects
 [Luxuria Hotels](https://github.com/janaiscoding/luxuria-hotel) | `Full-stack Hotel Booking Platform` | [Repo](https://github.com/janaiscoding/luxuria-hotel) *~work in progress ^^*
@@ -29,10 +25,8 @@
 
 Check out more of my projects in [all my repooooos here](https://github.com/janaiscoding?tab=repositories)
 
-</br>
-
-## 🔗 Let's talk!
-`LinkedIn` [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/) | `Mail` [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com)
+### 🔗 Connect
+`LinkedIn` [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/) | `Mail` [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com) 
 
 
 ### 
