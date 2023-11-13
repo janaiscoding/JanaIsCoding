@@ -14,7 +14,7 @@ const mySkills = {
   frontEnd: ["React", "Next.js", "TailwindCSS"],
   backEnd: ["NodeJs", "MongoDB", "Firebase"],
   tools: ["Jest", "Postman", "Git", "RESTful APIs"],
-  UIUX: ["Figma"]
+  UIUX: ["Figma", "Adobe Photoshop"]
 }
 ```
 
