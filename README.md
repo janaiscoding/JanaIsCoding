@@ -11,10 +11,10 @@
 ```javascript 
 const mySkills = {
   languages: ["JavaScript", "TypeScript"],
-  frontEnd: ["React", "Next.js", "TailwindCSS", "CSS3", "HTML5"],
-  backEnd: ["NodeJs", "MongoDB", "Express.js", "Mongoose", "Firebase"],
-  tools: ["Jest", "Postman", "Git", "RESTful APIs", "Figma"],
-  toBeAdded: []
+  frontEnd: ["React", "Next.js", "TailwindCSS"],
+  backEnd: ["NodeJs", "MongoDB", "Firebase"],
+  tools: ["Jest", "Postman", "Git", "RESTful APIs"],
+  UIUX: ["Figma"]
 }
 ```
 
