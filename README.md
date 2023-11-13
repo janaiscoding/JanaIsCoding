@@ -13,8 +13,8 @@ const mySkills = {
   languages: ["JavaScript", "TypeScript"],
   frontEnd: ["React", "Next.js", "TailwindCSS"],
   backEnd: ["NodeJs", "MongoDB", "Firebase"],
-  tools: ["Jest", "Postman", "Git", "RESTful APIs"],
-  UIUX: ["Figma", "Adobe Photoshop"]
+  tools: ["Jest", "Postman", "Git"],
+  design: ["Figma", "Adobe Photoshop"],
 }
 ```
 
