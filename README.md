@@ -1,8 +1,8 @@
-### ✨ Hey, I'm Jana!
+## ✨ Hey, I'm Jana!
 
-😊 Check out my portfolio for everything [`@janaiscoding`](https://jana-istrate.vercel.app/) related 
- 
-📈 Learning development through [The Odin Project](theodinproject.com), full stack JavaScript path
+😊 Check out my portfolio for everything [`@JanaIsCoding`](https://jana-istrate.vercel.app/) related 
+
+📈 Learning development through [The Odin Project](https://www.theodinproject.com/) • full stack JavaScript path
 
 👀 Looking for a developer position, eager to learn and adapt fast!
 
@@ -20,15 +20,15 @@ const mySkills = {
 
 ### ⚙️ Projects
 
-[Luxuria Hotels](https://github.com/janaiscoding/luxuria-hotel) : [Repo](https://github.com/janaiscoding/luxuria-hotel) `Full-stack Hotel Booking Platform` *~work in progress ^^* 
+• [Luxuria Hotels](https://github.com/janaiscoding/luxuria-hotel) : [Repo](https://github.com/janaiscoding/luxuria-hotel) `Full-stack Hotel Booking Platform` *~work in progress ^^* 
  
-[SocializerMe](https://socializerme.vercel.app/) : [Repo](https://github.com/janaiscoding/socializer) `Full-stack Social Media App: MERN Stack`
+• [SocializerMe](https://socializerme.vercel.app/) : [Repo](https://github.com/janaiscoding/socializer) `Full-stack Social Media App: MERN Stack`
  
-[Clonnerboxd](https://clonnerboxd.web.app/) : [Repo](https://github.com/janaiscoding/letterboxd-clone) `Letterboxd Clone: React, Firebase, API` 
+• [Clonnerboxd](https://clonnerboxd.web.app/) : [Repo](https://github.com/janaiscoding/letterboxd-clone) `Letterboxd Clone: React, Firebase, API` 
  
-[Photo Tagging](https://a-photo-tagging-app.web.app/) : [Repo](https://github.com/janaiscoding/photo-tagging-app) `Find Waldo-like game: React, Firebase` 
+• [Photo Tagging](https://a-photo-tagging-app.web.app/) : [Repo](https://github.com/janaiscoding/photo-tagging-app) `Find Waldo-like game: React, Firebase` 
  
-[Umaī Restaurant](https://umai-restaurant.web.app/) : [Repo](https://github.com/janaiscoding/shopping-cart) `Front-end shopping cart landing page`
+• [Umaī Restaurant](https://umai-restaurant.web.app/) : [Repo](https://github.com/janaiscoding/shopping-cart) `Front-end shopping cart landing page`
 
 👉 Check out more in [my repos](https://github.com/janaiscoding?tab=repositories)
 
