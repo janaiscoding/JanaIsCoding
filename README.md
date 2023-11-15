@@ -1,7 +1,7 @@
 ## ✨ Hey, I'm Jana!
 
-😊 Check out my portfolio for everything [`@JanaIsCoding`](https://jana-istrate.vercel.app/) related 
-
+😊 Check out my personal [website](https://www.janaistrate.com/) to learn more
+ 
 📈 Learning development through [The Odin Project](https://www.theodinproject.com/) • full stack JavaScript path
 
 👀 Looking for a developer position, eager to learn and adapt fast!
