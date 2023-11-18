@@ -1,8 +1,8 @@
 ## ✨ Hey, I'm Jana!
 
-😊 Check out my personal [website](https://www.janaistrate.com/) to learn more
+😊 Check out my personal [website](https://www.janaistrate.com/) 
  
-📈 Learning development through [The Odin Project](https://www.theodinproject.com/) • full stack JavaScript path
+🥰 Learning Full Stack JavaScript through [The Odin Project](https://www.theodinproject.com/) 
 
 👀 Looking for a developer position, eager to learn and adapt fast!
 
@@ -32,8 +32,8 @@ const mySkills = {
 
 👉 Check out more in [my repos](https://github.com/janaiscoding?tab=repositories)
 
-### 🔗 Connect
-`LinkedIn` [@Jana Istrate](https://www.linkedin.com/in/jana-istrate/) | `Mail` [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com) 
+### 🔗 Links
+[LinkedIn: in/jana-istrate](https://www.linkedin.com/in/jana-istrate/) | [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com) | [leetcode.com/janaiscoding](https://leetcode.com/janaiscoding/)
 
 
 ### 
