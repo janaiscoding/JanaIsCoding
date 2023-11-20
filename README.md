@@ -1,10 +1,10 @@
 ## ✨ Hey, I'm Jana!
 
 😊 Check out my personal [website](https://www.janaistrate.com/) 
- 
-🥰 Learning Full Stack JavaScript through [The Odin Project](https://www.theodinproject.com/) 
 
-👀 Looking for a developer position, eager to learn and adapt fast!
+🥰 [The Odin Project](https://www.theodinproject.com/) enthusiast. 
+
+👀 Looking for a junior position, eager to learn and adapt fast!
 
 ### 🛠  Skills
 
@@ -18,19 +18,17 @@ const mySkills = {
 }
 ```
 
-### ⚙️ Projects
+### ⚙️ My Projects
 
-• [Luxuria Hotels](https://github.com/janaiscoding/luxuria-hotel) : [Repo](https://github.com/janaiscoding/luxuria-hotel) `Full-stack Hotel Booking Platform` *~work in progress ^^* 
+* `SocializerMe, a Full-stack Social Media App: MERN Stack`  [Live](https://socializerme.vercel.app/) | [Repo](https://github.com/janaiscoding/socializer) 
  
-• [SocializerMe](https://socializerme.vercel.app/) : [Repo](https://github.com/janaiscoding/socializer) `Full-stack Social Media App: MERN Stack`
+* `Clonnerboxd, a Letterboxd Clone: React, Firebase, API` [Live](https://clonnerboxd.web.app/) | [Repo](https://github.com/janaiscoding/letterboxd-clone)
  
-• [Clonnerboxd](https://clonnerboxd.web.app/) : [Repo](https://github.com/janaiscoding/letterboxd-clone) `Letterboxd Clone: React, Firebase, API` 
+* `Photo Tagging Game, a Find Waldo-like game: React, Firebase`  [Live](https://a-photo-tagging-app.web.app/) | [Repo](https://github.com/janaiscoding/photo-tagging-app) 
  
-• [Photo Tagging](https://a-photo-tagging-app.web.app/) : [Repo](https://github.com/janaiscoding/photo-tagging-app) `Find Waldo-like game: React, Firebase` 
- 
-• [Umaī Restaurant](https://umai-restaurant.web.app/) : [Repo](https://github.com/janaiscoding/shopping-cart) `Front-end shopping cart landing page`
+* `Umaī Restaurant, a Front-end shopping cart landing page` [Live](https://umai-restaurant.web.app/) | [Repo](https://github.com/janaiscoding/shopping-cart) 
 
-👉 Check out more in [my repos](https://github.com/janaiscoding?tab=repositories)
+👉 Check out more in [my repos](https://github.com/janaiscoding?tab=repositories) 
 
 ### 🔗 Links
 [LinkedIn: in/jana-istrate](https://www.linkedin.com/in/jana-istrate/) | [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com) | [leetcode.com/janaiscoding](https://leetcode.com/janaiscoding/)
@@ -38,3 +36,4 @@ const mySkills = {
 
 ### 
 ![](https://komarev.com/ghpvc/?username=janaiscoding&style=for-the-badge)
+
