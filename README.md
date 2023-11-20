@@ -8,15 +8,11 @@
 
 ### 🛠  Skills
 
-```javascript 
-const mySkills = {
-  languages: ["JavaScript", "TypeScript"],
-  frontEnd: ["React", "Next.js", "TailwindCSS"],
-  backEnd: ["NodeJs", "MongoDB", "Firebase"],
-  tools: ["Jest", "Postman", "Git"],
-  design: ["Figma", "Adobe Photoshop"],
-}
-```
+`JavaScript` | `TypeScript` | `React` | `Next.js` 
+
+`NodeJs` | `MongoDB` | `TailwindCSS` | `Firebase` 
+
+`Jest` | `Postman` | `Git` | `Figma` | `Photoshop`
 
 ### ⚙️ My Projects
 
