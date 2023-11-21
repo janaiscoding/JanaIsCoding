@@ -1,18 +1,19 @@
 ## ✨ Hey, I'm Jana!
 
-😊 Check out my personal [website](https://www.janaistrate.com/) 
+😊 Visit [my personal website](https://www.janaistrate.com/) 
 
-🥰 [The Odin Project](https://www.theodinproject.com/) enthusiast. 
+🥰 Practicing on [Exercism](https://exercism.org/profiles/janaiscoding) and [Leetcode](https://leetcode.com/janaiscoding) to always keep improving. [The Odin Project](https://www.theodinproject.com/) enthusiast.
 
 👀 Looking for a junior position, eager to learn and adapt fast!
 
 ### 🛠  Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind)](https://skillicons.dev)
 
-`JavaScript` | `TypeScript` | `React` | `Next.js` 
+`JavaScript` | `TypeScript` | `React` | `Next.js` | `HTML5` | `CSS3` | `TailwindCSS` 
 
-`NodeJs` | `MongoDB` | `TailwindCSS` | `Firebase` 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,jest,postman,git,figma,vscode)](https://skillicons.dev)
 
-`Jest` | `Postman` | `Git` | `Figma` | `Photoshop`
+ `NodeJs` | `Express` |`MongoDB` | `Firebase` | `Jest` | `Postman` | `Git` | `Figma` | `VS Code`
 
 ### ⚙️ My Projects
 
@@ -27,7 +28,7 @@
 👉 Check out more in [my repos](https://github.com/janaiscoding?tab=repositories) 
 
 ### 🔗 Links
-[LinkedIn: in/jana-istrate](https://www.linkedin.com/in/jana-istrate/) | [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com) | [leetcode.com/janaiscoding](https://leetcode.com/janaiscoding/)
+[LinkedIn: in/jana-istrate](https://www.linkedin.com/in/jana-istrate/) | [jana.istrate@gmail.com](mailto:jana.istrate@gmail.com) 
 
 
 ### 
