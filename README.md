@@ -6,6 +6,8 @@
 
 🥰 Practicing on [Leetcode](https://leetcode.com/janaiscoding) and [Exercism](https://exercism.org/profiles/janaiscoding) to always keep improving. [The Odin Project](https://www.theodinproject.com/) enthusiast.
 
+📖 Also learning Python with Harvard cs50's [course](https://cs50.harvard.edu/python/2022/)
+
 ### ⚙️ My Projects
 
 * `SocializerMe, a Full-stack Social Media App: MERN Stack`  [Live](https://socializerme.vercel.app/) | [Repo](https://github.com/janaiscoding/socializer) 
