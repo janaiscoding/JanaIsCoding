@@ -10,16 +10,16 @@
 
 ### ⚙️ My Projects
 
-* `Luxuria Hotel, a Full-stack business hotel booking website` [Live](https://luxuria-hotel.vercel.app/) | [Repo](https://github.com/janaiscoding/luxuria-hotel) **work in progress*
+💖 `Currently building a quiz game based on book ❝You Don't Know JS yet!❞` | [repo](https://github.com/janaiscoding/ydkjs-quiz) 
 
-* `SocializerMe, a Full-stack Social Media App: MERN Stack`  [Live](https://socializerme.vercel.app/) | [Repo](https://github.com/janaiscoding/socializer) 
- 
-* `Clonnerboxd, a Letterboxd Clone: React, Firebase, API` [Live](https://clonnerboxd.web.app/) | [Repo](https://github.com/janaiscoding/letterboxd-clone)
- 
-* `Photo Tagging Game, a Find Waldo-like game: React, Firebase`  [Live](https://a-photo-tagging-app.web.app/) | [Repo](https://github.com/janaiscoding/photo-tagging-app) 
- 
-* `Umaī Restaurant, a Front-end shopping cart landing page` [Live](https://umai-restaurant.web.app/) | [Repo](https://github.com/janaiscoding/shopping-cart) 
+🏨 `Luxuria Hotel, a Full-stack business hotel booking website` [Live](https://luxuria-hotel.vercel.app/) | [Repo](https://github.com/janaiscoding/luxuria-hotel)
 
+📱 `SocializerMe, a Full-stack Social Media App: MERN Stack`  [Live](https://socializerme.vercel.app/) | [Repo](https://github.com/janaiscoding/socializer) 
+ 
+🎥 `Clonnerboxd, a Letterboxd Clone: React, Firebase, API` [Live](https://clonnerboxd.web.app/) | [Repo](https://github.com/janaiscoding/letterboxd-clone)
+ 
+🖼️ `Photo Tagging Game, a Find Waldo-like game: React, Firebase`  [Live](https://a-photo-tagging-app.web.app/) | [Repo](https://github.com/janaiscoding/photo-tagging-app) 
+ 
 ### 🛠  Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind)](https://skillicons.dev)
