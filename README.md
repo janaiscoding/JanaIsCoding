@@ -4,13 +4,13 @@
 
 👀 Looking for a junior developer position, eager to learn and adapt fast!
 
-🥰 Practicing on [Leetcode](https://leetcode.com/janaiscoding) and [Exercism](https://exercism.org/profiles/janaiscoding) to always keep improving. [The Odin Project](https://www.theodinproject.com/) enthusiast.
+🥰 Practicing DSA on [Leetcode](https://leetcode.com/janaiscoding) to always keep improving. [The Odin Project](https://www.theodinproject.com/) enthusiast.
 
 📖 Learning Python by taking Harvard's CS50 [course](https://cs50.harvard.edu/python/2022/)
 
 ### ⚙️ My Projects
 
-💖 `Currently building a quiz game based on book ❝You Don't Know JS yet!❞` | [repo](https://github.com/janaiscoding/ydkjs-quiz) 
+💖 `Currently building a JavaScript quiz game` [Live](https://ydkjs-quiz.vercel.app/) | [Repo](https://github.com/janaiscoding/ydkjs-quiz) *~work in progress* 
 
 🏨 `Luxuria Hotel, a Full-stack business hotel booking website` [Live](https://luxuria-hotel.vercel.app/) | [Repo](https://github.com/janaiscoding/luxuria-hotel)
 
