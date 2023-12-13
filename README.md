@@ -10,7 +10,7 @@
 
 ### ⚙️ My Projects
 
-💖 `Currently building a JavaScript quiz game` [Live](https://ydkjs-quiz.vercel.app/) | [Repo](https://github.com/janaiscoding/ydkjs-quiz) *~work in progress* 
+💖 `Currently building a JavaScript quiz game` Live* | [Repo](https://github.com/janaiscoding/ydkjs-quiz) *~work in progress* 
 
 🏨 `Luxuria Hotel, a Full-stack business hotel booking website` [Live](https://luxuria-hotel.vercel.app/) | [Repo](https://github.com/janaiscoding/luxuria-hotel)
 
