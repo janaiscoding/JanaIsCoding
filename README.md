@@ -2,11 +2,9 @@
 
 😊 Visit [my personal website](https://www.janaistrate.com/) to learn more
 
-👀 Looking for a junior developer position, eager to learn and adapt fast!
+🥰 Practicing DSA on [Leetcode](https://leetcode.com/janaiscoding) to always keep improving
 
-🥰 Practicing DSA on [Leetcode](https://leetcode.com/janaiscoding) to always keep improving. [The Odin Project](https://www.theodinproject.com/) enthusiast.
-
-📖 Learning Python by taking Harvard's CS50 [course](https://cs50.harvard.edu/python/2022/)
+📖 [The Odin Project](https://www.theodinproject.com/) enthusiast
 
 ### ⚙️ My Projects
 
