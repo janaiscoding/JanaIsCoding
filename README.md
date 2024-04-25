@@ -2,13 +2,9 @@
 
 😊 Visit [my personal website](https://www.janaistrate.com/) to learn more
 
-🥰 Practicing DSA on [Leetcode](https://leetcode.com/janaiscoding) to always keep improving
-
-📖 [The Odin Project](https://www.theodinproject.com/) enthusiast
+📖 [The Odin Project](https://www.theodinproject.com/) 
 
 ### ⚙️ My Projects
-
-💖 `Currently building a JavaScript quiz game` Live* | [Repo](https://github.com/janaiscoding/ydkjs-quiz) *~work in progress* 
 
 🏨 `Luxuria Hotel, a Full-stack business hotel booking website` [Live](https://luxuria-hotel.vercel.app/) | [Repo](https://github.com/janaiscoding/luxuria-hotel)
 
