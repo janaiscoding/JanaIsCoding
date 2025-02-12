@@ -1,6 +1,6 @@
 # ✨ Hey, I'm Jana
 
-🚀 Check out [my website](https://www.janaistrate.com/) 
+🚀 Check out [my website](https://jana-istrate.vercel.app/) 
 
 🖥️ Currently working as a Frontend Developer
 
